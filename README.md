@@ -1,10 +1,10 @@
-# Notes App 📝
+# Notes App 
 
 A simple and efficient **Flutter-based Notes Application** to help you capture and organize your thoughts on the go.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Create, edit, and delete notes  
 - Clean and intuitive UI built with Flutter widgets  
@@ -14,7 +14,7 @@ A simple and efficient **Flutter-based Notes Application** to help you capture a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Flutter & Dart  
 - State Management: Provider   
