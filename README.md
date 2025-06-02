@@ -1,16 +1,27 @@
-# myapp
+# Notes App 📝
 
-A new Flutter project.
+A simple and efficient **Flutter-based Notes Application** to help you capture and organize your thoughts on the go.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Create, edit, and delete notes  
+- Clean and intuitive UI built with Flutter widgets  
+- Local data persistence for offline access  
+- Responsive design for mobile devices  
+- Uses Flutter’s state management for smooth UX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter & Dart  
+- State Management: Provider   
+- Local Storage: Isar Database  
+- Designed and tested on Android emulator and physical devices
+
+---
+
+
+
